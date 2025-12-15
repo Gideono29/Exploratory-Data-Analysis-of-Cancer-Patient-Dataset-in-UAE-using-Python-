@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Cancer-Patient-Dataset-in-UAE-using-Python
-This dataset was collected between 2015 and 2024. It is made up of 10,000 samples and 20 different attributes, including (Patient_ID, Age, Gender, Nationality, Emirate, Diagnosis_Date, Cancer_Type, Cancer_Stage, Treatment_Type, Treatment_Start_Date, Hospital, Primary_Physician, Outcome, Death_Date, Cause_of_Death, Smoking_Status, Comorbidities, Ethnicity, Weight, Height).
+This dataset is from Kaggle and was collected between 2015 and 2024. It is made up of 10,000 samples and 20 different attributes, including (Patient_ID, Age, Gender, Nationality, Emirate, Diagnosis_Date, Cancer_Type, Cancer_Stage, Treatment_Type, Treatment_Start_Date, Hospital, Primary_Physician, Outcome, Death_Date, Cause_of_Death, Smoking_Status, Comorbidities, Ethnicity, Weight, Height). Preprocessing was done to detect and resolve inconsistent, different data formats, date-time format, outliers, and null values.
 
 ## The aim of this exploratory data analysis (EDA) is to uncover insights and trends in this data
 
